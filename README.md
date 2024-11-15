@@ -1,9 +1,9 @@
 # Byhand40
-Handwired 40% based on the Pi Pico, running KMK firmware
+Handwired 40% based on the [Pi Pico/Pro Micro], running [KMK] firmware
 
 # Components
 [Insert Aliexpress Links if possible]
-- Pi Pico
+- [Pi Pico]
 - Copper Wire
 - IN4148 Diodes
 - 3D printed plate/case
@@ -26,6 +26,6 @@ Handwired 40% based on the Pi Pico, running KMK firmware
 
 [Keyboard Layout Editor](https://keyboard-layout-editor.com/#/)
 
-- Tsangan-ish 40%, tiny space and layers, Southpaw symbols/macros
+- Tsangan-ish 40%, very split space(s)
 
 
