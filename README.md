@@ -1,5 +1,5 @@
 # Byhand40
-Handwired 40% based on the [Pi Pico/Pro Micro], running [KMK] firmware
+Handwired 40% mechanical keyboard based on the [Pi Pico/Pro Micro], running [KMK] firmware
 
 # Components
 [Insert Aliexpress Links if possible]
@@ -16,16 +16,20 @@ Handwired 40% based on the [Pi Pico/Pro Micro], running [KMK] firmware
 - Briefcase structure 
     - Paracord handle
 - Detatchable, Lego-fit feet
-- Raised far wall for a slide-down cover/wristrest
-- 3D printed hinge/buckle or velcro to keep shut
+- Raised far wall for a slide-down cover/wristrest (?)
+    - alternatively, a traditional-style removable cover
+- 3D printed hinge/buckle or velcro to keep shut (?)
 
-- Arasaka/JDM/stickerbomb theme
+- Arasaka/JDM/stickerbomb/TBD theme
 
 # Layout/Matrix
+- Tsangan-ish 40%, very split space(s)
+## Plate/Layout Resources
 [ai03 Plate Generator](https://kbplate.ai03.com/)
 
 [Keyboard Layout Editor](https://keyboard-layout-editor.com/#/)
 
-- Tsangan-ish 40%, very split space(s)
+# 3D Print Resources
+[UCSC Slugworks](https://slugworks.engineering.ucsc.edu/)
 
-
+[UCSC Digital Scholarship Innovation Studio](https://guides.library.ucsc.edu/DS/DSI/Home)
