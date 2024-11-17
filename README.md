@@ -1,26 +1,32 @@
 # Byhand40
-Handwired 40% mechanical keyboard based on the [Pi Pico/Pro Micro], running [KMK] firmware
+Handwired 40% mechanical keyboard based on the [Pi Pico/Pro Micro], running [KMK] firmware. This will be my first project involving electronics and solder. 
+The purpose of this build is to type notes on the go using my phone; therefore, the form factor and layout must be small for portability.
 
-# Components
+# Materials/Components
 [Insert Aliexpress Links if possible]
-- [Pi Pico]
+- [Pi Pico/Pro Micro]
 - Copper Wire
 - IN4148 Diodes
 - 3D printed plate/case
 - Paracord
 - Velcro
 
-# Case Design 
-- Mounting style: TBD
-
-- Briefcase structure 
-    - Paracord handle
+# Case Design/Features
+## Mounting style
+- TBD
+- [O-ring/tray/top/gasket]
+## Structure
+- Briefcase shape
+- Paracord handle
 - Detatchable, Lego-fit feet
-- Raised far wall for a slide-down cover/wristrest (?)
-    - alternatively, a traditional-style removable cover
 - 3D printed hinge/buckle or velcro to keep shut (?)
-
-- Arasaka/JDM/stickerbomb/TBD theme
+- slim profile for portability
+## Case/Wristrest
+- Raised far wall for a slide-down cover/wristrest (?)
+- alternatively, a traditional-style removable cover
+## Theme
+- TBD
+- Arasaka/JDM/stickerbomb
 
 # Layout/Matrix
 - Tsangan-ish 40%, very split space(s)
